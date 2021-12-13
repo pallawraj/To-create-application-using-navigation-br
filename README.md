@@ -171,7 +171,7 @@ I am always open to new suggestions and good contributions.
 
 ## Contact
 
-Feel free to reach out to me at gauravkcs50@gmail.com
+Feel free to reach out to me at pallaw4@gmail.com
 
 ## License:
 ```
